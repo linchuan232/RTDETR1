@@ -7,8 +7,6 @@ __include__: [
 ]
 
 
-tuning: https://github.com/lyuwenyu/storage/releases/download/v0.1/rtdetrv2_r18vd_120e_coco.pth
-
 output_dir: ./output/rtdetrv2_r18vd_dsp_3x_coco
 
 PResNet:
